@@ -21,6 +21,7 @@ img {
 }
 .header {
     border-bottom: 1px solid #e7e9fc;
+    margin: 24px 0;
 }
 .nav {
     display: flex;
