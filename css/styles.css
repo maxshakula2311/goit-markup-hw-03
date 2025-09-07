@@ -172,8 +172,7 @@ body {
 }
 .teamlist {
     display: flex;
-    column-gap: 24px;
-    row-gap: 48px;
+    gap: 24px;
     align-items: center;
     justify-content: center;
 }
@@ -196,7 +195,8 @@ body {
 }
 .downlist {
     display: flex;
-    gap: 24px;
+    column-gap: 24px;
+    row-gap: 48px;
     justify-content: center;
     flex-wrap: wrap;
 }
